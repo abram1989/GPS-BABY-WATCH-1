@@ -1104,7 +1104,7 @@ to { opacity: 1 }
             float: left;
             width: 200px;
             padding-top: 1%;
-			text-align: center
+	    text-align: center;
         }
             .navbar-nav > li > a {
 
